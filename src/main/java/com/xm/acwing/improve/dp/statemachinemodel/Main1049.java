@@ -1,4 +1,4 @@
-package com.xm.acwing.improve.dp.digitaltrianglemodel;
+package com.xm.acwing.improve.dp.statemachinemodel;
 
 import java.util.Scanner;
 
