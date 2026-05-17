@@ -1,4 +1,4 @@
-package com.xm.acwing.improve.graph;
+package com.xm.acwing.improve.graph.dijkstra;
 
 import java.util.Arrays;
 import java.util.Scanner;
